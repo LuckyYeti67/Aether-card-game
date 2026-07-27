@@ -28,6 +28,42 @@ Silver deck theme - hard to block, sets up boards to make small creatures powerf
 Brown deck theme - mama Ramp, uses monsters to get more AP to summon powerful monsters. Attacking through monsters to deal damage to the player. Midrange.
 Black deck theme - Boss monster, heavy Mutation use, very high attack power. Aggro.
 White deck theme - shield manipulation and Recovery, keeping strong monsters alive woth, powerful monsters. Control
+Keywords are used to give cards abilities without writing a lot of text down.
+This is a list of keywords in the current game
+AP X - you must use X amount of AP to activate the effect that directly follows after this keyword.
+On Play - When the card enters the Card Zone. You can activate the ability that follows directly after the On play keyword. 
+Continuous - While the card is face up in a Card Zone. The cards ability that follows directly after the Continuous keyword is active while the Card is face up in the play area at all times.
+Piercing - when the attacking monster destroys an opponent's card. Destroy 1 shield
+Defender - When your opponent attacks. Your opponent must attack defender monsters and cannot attack anything else.
+Discard - sending a card from your hand to your grave.
+Bounce - Return a specified card from the play area to your hand.
+Conjure - Summon a monster to your Play area from a specified area without paying its AP cost
+Doublecast - Activate the cards ability that ends with double cast twice. (double cast cannot be stacked) 
+Heal X - Add the top card/s of your deck to your shields face down to the left most position. X is how many cards you Heal.
+Stun - target affected by stun cannot attack or use their effects next turn. (Card is turned face down)
+Weakness - Target affected by weakness has its attack reduced by half.
+Ignore (Keyword) - allows for a card's ability to nullify the keyword listed after ignore. Ignore is only applied at the moment the card's ability activates unless stated otherwise.
+Scry X - Look at X Cards from the top of your deck.
+Retaliate - When this card is battled. If your ATK is equal to or greater then the opponent's monster that battled you, the opponent's monster is destroyed after the battle.
+Stack X - adding cards from your graveyard ( or a designated area listed by the cards effect) to the bottom of your deck, usually used as a requirement for other effects to activate. X is the number of cards you stack.
+Search - you add a specific card/s to your hand based on the card's description (ex. Search 1 monster with 20 or less ATK from your deck, search 1 spell with a cost of 3 from your graveyard.)
+Bury - shields destroyed by a monster with this ability are places on the bottom of there deck instead of their Aether. 
+Mill X - you add cards from the top of your deck to your graveyard face-up. X is the number of cards you use.
+Send - you add a specific card/s to your graveyard based on the cards description (ex. Send 1 Purple monster from your deck)
+Warp - add card/s from your graveyard to the Warp Zone face down.
+Charge - when this card would be sent from the Card Zone to the graveyard. It is placed in the AP Zone instead.
+Charge X - you add cards from the top of your deck to your AP Zone. X is the number of cards you charge. 
+Salvage - adding a specific card/s from your graveyard to your hand.
+Return - when this card would be sent from the Card Zone to the graveyard. Add the card to your hand instead.
+Breaker +/-X - if you would destroy an opponent's shield, increase or decrease the shields you break where X is the number that you increase or decrease the number of shields you are able to destroy.
+Aether Break - When this card is removed from the damage zone, immediately activate its Breakthrough effect, then send this card to the graveyard. ( if the card's breakthrough still places the card somewhere else, you do not add it to your hand.)
+Deconstruct/Void - flipping the top card in your graveyard face-down and moving it to the Void Zone.
+Quick X - this monster can be summoned during your opponents turn. X is the AP to summon the monter with this keyword.
+Expel X - Send cards from your Aether zone equal to X to the graveyard to activate effects.
+Evasion - this monster cannot be blocked.
+Cover - This monster cannot be targeted for an attack unless all other monsters without cover are not in the Card Zone.
+Repel - This card cannot be targeted by spells
+
 
 
 
