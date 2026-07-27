@@ -127,7 +127,7 @@ Cards have different Aether types that determine playstyle and deck-building res
 
 | Color | Aether | Theme | Playstyle |
 |-------|--------|-------|-----------|
-| Purple | Purple | Graveyard and banish effects, Milling cards, Powerful destruction effects | Aggro |
+| Green | Nature (Green) | Graveyard and banish effects, Milling cards, Powerful destruction effects | Aggro |
 | Red | Fire (Red) | Breaks shields, Strong attackers, Effect damage | Aggro |
 | Blue | Water (Blue) | Strong protection spells, Hand discards, Hand advantage | Control |
 | Yellow | Lightning (Yellow) | Weak summons that return to hand, Single target removal, Items | Aggro |
