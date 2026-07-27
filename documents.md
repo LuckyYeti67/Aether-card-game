@@ -33,5 +33,24 @@ Mutation - Mutations you Continuous effects that you place on your field. These 
 Character - This is a special card because you only need 1 for your deck. Your Character is what dictates what colors you're able to use in your deck. It also has a list of abilities you are allowed to use throughout the game. These abilities are unlocked once you have taken a certain amount of damage. Your abilities will list how much health you will need in order to use those abilities.
 
 How to win - to win you must reduce a player's shields to 0 and then attack them while they have no shields. 
+Shields - shields protect you from Losing the game. If you're attacked while you have no shields you lose. You start with 6 shields at the beginning of the game. The Top 6 cards of your deck are placed face down in front of you to represent your shields.
+When a shield is destroyed you will reveal the leftmost card in your shield area. You will then trigger its effect if it has a special Keyword that allows you to do this. Then after that cards effect activates or not you will then place it in the Mutation area.
+
+Aether - cards in the game will have different Aether. The Aethers cards can be will be Fire (red), Water (blue), Wind (green), Earth (Brown), Metal (black), Light(yellow), and Dark (Purple)
+
+Purple deck theme - graveyard and banish effects. milling cards, power destruction effects. Aggro
+
+Red deck theme - Aggro, breaks multiple shields, fast attackers. Destroy monsters with effect damage.
+
+Blue deck theme - strong protection spells, discards cards to activate effects, hand advantage, control.
+
+Green deck theme - hard to block, sets up boards to make small creatures powerful. Stacks cards away from the field. Midrange
+
+Brown deck theme - mama Ramp, uses monsters to get more actions to summon powerful monsters. Attacking thru monsters to deal damage to the player. Midrange.
+
+Black deck theme - Boss monster, heavy Mutation use, very high attack power. Aggro.
+
+Yellow deck theme - shield manipulation and Recovery, keeping strong monsters alive woth, powerful monsters.
+
 
 
