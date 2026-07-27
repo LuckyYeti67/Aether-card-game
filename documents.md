@@ -46,6 +46,7 @@
      - Play cards from your hand
      - Activate card effects
      - Attack with monsters
+
 5. **End Phase**
    - Anything that resolves during the End Phase happens now
 
@@ -126,12 +127,13 @@ Cards have different Aether types that determine playstyle and deck-building res
 
 | Color | Aether | Theme | Playstyle |
 |-------|--------|-------|-----------|
+| Purple | Purple | Graveyard and banish effects, Milling cards, Powerful destruction effects | Aggro |
 | Red | Fire (Red) | Breaks shields, Strong attackers, Effect damage | Aggro |
 | Blue | Water (Blue) | Strong protection spells, Hand discards, Hand advantage | Control |
 | Yellow | Lightning (Yellow) | Weak summons that return to hand, Single target removal, Items | Aggro |
 | Silver | Wind (Silver) | Hard to block, Board setup, Stacking cards away from field | Midrange |
 | Brown | Earth (Brown) | Mana Ramp, Monster-based AP generation, Damage through monsters | Midrange |
-| Black | Dark (Black) | Boss monsters, Heavy Mutation use, Very high attack power | Aggro |
+| Black | Dark (Black) | Graveyard and banish effects, Milling cards, Powerful destruction effects | Aggro |
 | White | Holy (White) | Shield manipulation, Recovery, Keeping strong monsters alive | Control |
 
 ---
