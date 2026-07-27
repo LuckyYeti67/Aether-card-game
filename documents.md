@@ -41,12 +41,11 @@
    - You may place a card from your hand into your AP Zone
 
 4. **Main Phase**
-   - You may take as many actions as you want:
-     - Use AP to draw cards, charge cards, play cards, set cards, or activate effects
-     - Attack with monsters
+   - You may do a couple things during this phase:
+     - Use Character abilities,
+     - Play cards from your hand
      - Activate card effects
-   - Cards in the AP Zone are placed face up (both players can see them)
-
+     - Attack with monsters
 5. **End Phase**
    - Anything that resolves during the End Phase happens now
 
@@ -58,12 +57,10 @@
 - Where you store resources to spend during your turn
 - Cards placed here are **face up** and visible to both players
 - You may use AP to:
-  - Draw cards
-  - Charge additional cards
   - Play cards from your hand
   - Activate card effects
 
-### Play Field (5 Card Zones)
+### Battlefield (5 Card Zones)
 - You have **5 Card Zones** total where you place:
   - Monsters
   - Spells
@@ -80,10 +77,8 @@
 ### Graveyard
 - Where cards go when they are destroyed or discarded
 
-### Warp Zone
-- Cards with certain effects are sent here face down
-
 ### Void Zone
+- Cards are sent here by certain effects
 - Separate from the graveyard, used for permanent removal
 
 ---
@@ -93,7 +88,7 @@
 There are **5 main types of cards**:
 
 ### 1. Monsters
-- **Stats**: Attack, Health, Typing, AP Cost, Aether
+- **Stats**: Attack, Defence, Typing, AP Cost, Aether
 - One of the 2 most common card types
 - Used to attack opponent's monsters and the opponent directly
 - **Can attack the turn they are summoned**
@@ -114,7 +109,7 @@ There are **5 main types of cards**:
   - Provide other bonuses
 
 ### 4. Mutations
-- Continuous effects placed on your field
+- Continuous effects placed on the Battlefield
 - Give your monsters additional stats and effects
 - Increase monster effectiveness in battle
 
@@ -131,7 +126,6 @@ Cards have different Aether types that determine playstyle and deck-building res
 
 | Color | Aether | Theme | Playstyle |
 |-------|--------|-------|-----------|
-| Purple | Purple | Graveyard & Banish effects, Milling, Power destruction | Aggro |
 | Red | Fire (Red) | Breaks shields, Strong attackers, Effect damage | Aggro |
 | Blue | Water (Blue) | Strong protection spells, Hand discards, Hand advantage | Control |
 | Yellow | Lightning (Yellow) | Weak summons that return to hand, Single target removal, Items | Aggro |
