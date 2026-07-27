@@ -21,7 +21,7 @@ Character - This is a special card because you only need 1 for your deck. Your C
 How to win - to win you must reduce a player's HP to 0
 HP Zone - Your HP is how many attacks you can take before you loss the game. If you're attacked and lose your last HP, you lose. You start with 7 HP at the beginning of the game. The Top 7 cards of your deck are placed face down in front of you to represent your HP.
 When you loss and HP, you will reveal your right-most card in your HP Zone. You will then trigger its effect if it has the Aether Surge Keyword that allows you to do this. Then after that cards effect activates or not, you will then place it in the AP Zone area.
-Aether - cards in the game will have different Aether. The Aethers cards can be will be Fire (Red), Water (Blue),Lightning (Yellow) Wind (Light Green), Nature (Dark Green) Earth (Brown), Holy (White) Dark (Black)
+Aether - cards in the game will have different Aether. The Aethers cards can be will be Fire (Red), Water (Blue),Lightning (Yellow) Wind (Silver), Nature (Green) Earth (Brown), Holy (White) Dark (Black)
 Purple deck theme - graveyard and banish effects. milling cards, power destruction effects. Aggro
 Red deck theme - Aggro, breaks multiple shields, fast attackers. Destroy monsters with effect damage.
 Blue deck theme - strong protection spells, discards cards to activate effects, hand advantage, control.
