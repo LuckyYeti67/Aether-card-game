@@ -12,3 +12,26 @@ After your Charge Phase. You may now use your AP. AP is used to draw cards,charg
 
 You may use your AP to draw cards and even add additional AP toy your  AP Zone.
 
+During your turn you can take as many actions as you want. Once you have done your actions for the turn, we end the Main phase and enter the end phase and anything that resolves during the End Phase is resolved.
+
+Cards in the AP Zone are placed face up so both players can see what the card is.
+To play cards from your hand you must tap AP (Aether points) equal to the cost of the card that is located on the upper left corner of the card. You will play cards onto 1 of 5 Card zones.
+
+You have 5 Card Zones in total and this is where you will place your Monsters,spells and mutations. You cannot place any more cards if all your Cards Zones are filled unless you remove one of the cards in that zone.
+
+Monsters can attack the turn they are summoned. You declare attacjs by Resting the card (turning it sideways) 
+Types of Cards - there are 5 different types of cards. Monsters,Spells,Items,Mutations,and the class card
+
+Monsters - Cards that have an Attack,Health,typing,AP cost,and aether. Monsters are one of the 2 most common cards you will be using in your deck. They are used to attack others monsters and the opponent. These cards will be your best way to win a duel.
+
+Spells - Cards that just have an AP cost and an aether. Spells are the other most common card you will have in your deck. Spells have effects that are used instantly and can be used during ether players turn. They have special abilities that can change the tide of the battle. Spells will be some of the versatile uses in your deck. 
+
+Items -  Cards you equip to your character card so that you can fight along with your monsters. These cards give you stats and abilities that allow you to hit monsters,survive longer, or both! Your character has two hands so you can equip 2 one handed items or one 2 handed item at a time! Items will affect your character as long as they are equipped to you so once the item is destroyed you will no longer have the item's effects.
+
+Mutation - Mutations you Continuous effects that you place on your field. These are powerful cards that give your monsters additional stats and effects to increase their effectiveness in battle.
+
+Character - This is a special card because you only need 1 for your deck. Your Character is what dictates what colors you're able to use in your deck. It also has a list of abilities you are allowed to use throughout the game. These abilities are unlocked once you have taken a certain amount of damage. Your abilities will list how much health you will need in order to use those abilities.
+
+How to win - to win you must reduce a player's shields to 0 and then attack them while they have no shields. 
+
+
