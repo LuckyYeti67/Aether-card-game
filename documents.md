@@ -133,7 +133,7 @@ Cards have different Aether types that determine playstyle and deck-building res
 | Yellow | Lightning (Yellow) | Weak summons that return to hand, Single target removal, Items | Aggro |
 | Silver | Wind (Silver) | Hard to block, Board setup, Stacking cards away from field | Midrange |
 | Brown | Earth (Brown) | Life Gain & Resilience, Heal and protect your character while building strong defense | Control |
-| Black | Dark (Black) | Graveyard and banish effects, Milling cards, Powerful destruction effects | Aggro |
+| Black | Dark (Black) | Graveyard and Void effects, Milling cards, Powerful destruction effects | Aggro |
 | White | Holy (White) | Shield manipulation, Recovery, Keeping strong monsters alive | Control |
 
 ---
