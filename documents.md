@@ -23,12 +23,13 @@ HP Zone - Your HP is how many attacks you can take before you loss the game. If 
 When you loss and HP, you will reveal your right-most card in your HP Zone. You will then trigger its effect if it has the Aether Surge Keyword that allows you to do this. Then after that cards effect activates or not, you will then place it in the AP Zone area.
 Aether - cards in the game will have different Aether. The Aethers cards can be will be Fire (Red), Water (Blue),Lightning (Yellow) Wind (Silver), Nature (Green) Earth (Brown), Holy (White) Dark (Black)
 Purple deck theme - graveyard and banish effects. milling cards, power destruction effects. Aggro
-Red deck theme - Aggro, breaks multiple shields, fast attackers. Destroy monsters with effect damage.
+Red deck theme - Aggro, breaks multiple shields, strong attackers. Destroy monsters with effect damage.
 Blue deck theme - strong protection spells, discards cards to activate effects, hand advantage, control.
-Green deck theme - hard to block, sets up boards to make small creatures powerful. Stacks cards away from the field. Midrange
-Brown deck theme - mama Ramp, uses monsters to get more actions to summon powerful monsters. Attacking thru monsters to deal damage to the player. Midrange.
+Yellow deck theme - summons weak small attacks that Return to the hand. single target removal, emphasis on items. Aggro
+Silver deck theme - hard to block, sets up boards to make small creatures powerful. Stacks cards away from the field. Midrange
+Brown deck theme - mama Ramp, uses monsters to get more AP to summon powerful monsters. Attacking through monsters to deal damage to the player. Midrange.
 Black deck theme - Boss monster, heavy Mutation use, very high attack power. Aggro.
-Yellow deck theme - shield manipulation and Recovery, keeping strong monsters alive woth, powerful monsters.
+White deck theme - shield manipulation and Recovery, keeping strong monsters alive woth, powerful monsters. Control
 
 
 
