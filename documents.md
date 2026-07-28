@@ -146,31 +146,31 @@ Keywords are used to give cards abilities without requiring extensive text on th
 |---------|--------|
 | **AP X** | Use X amount of AP to activate the effect that follows |
 | **Charge X** | Add X cards from the top of your deck to your AP Zone |
-| **On Play** | When the card enters the Card Zone, activate the ability that follows |
+| **On Play** | When the card enters the Battlefield, activate the ability that follows |
 | **Continuous** | While the card is face up in a Card Zone, its ability is always active |
 
 ### Attack & Defense Keywords
 
 | Keyword | Effect |
 |---------|--------|
-| **Piercing** | When attacking and destroying an opponent's card, destroy 1 Shield |
+| **Piercing** | When attacking and destroying an opponent's card, destroy 1 HP |
 | **Defender** | Your opponent must attack Defender monsters and cannot attack anything else |
 | **Evasion** | This monster cannot be blocked |
 | **Cover** | Cannot be targeted for attack unless all other monsters without Cover are gone |
 | **Repel** | Cannot be targeted by spells |
-| **Retaliate** | When battled, if your ATK ≥ opponent's monster ATK, destroy their monster |
+| **Retaliate** | When battled, if your ATK ≥ opponent's monster DEF, destroy their monster after the battle ends |
 
 ### Card Movement Keywords
 
 | Keyword | Effect |
 |---------|--------|
 | **Discard** | Send a card from your hand to your graveyard |
-| **Bounce** | Return a specified card from the play area to your hand |
-| **Conjure** | Summon a monster to your play area without paying its AP cost |
+| **Bounce** | Return a specified card from the Battlefield to the owners hand |
+| **Conjure** | Summon a monster to your Battlefield without paying its AP cost |
 | **Salvage** | Add a specific card/s from your graveyard to your hand |
-| **Return** | When sent to graveyard, add this card to your hand instead |
+| **Return** | When sent to graveyard from the Battlefield, add this card to your hand instead |
 | **Search** | Add a specific card/s to your hand based on the card's description |
-| **Stack X** | Add X cards from your graveyard (or designated area) to the bottom of your deck |
+| **Stack X** | Add X cards from the bottom of graveyard (or other designated area) to the bottom of your deck |
 | **Warp** | Add card/s from your graveyard to the Warp Zone face down |
 
 ### Status Effect Keywords
@@ -178,7 +178,8 @@ Keywords are used to give cards abilities without requiring extensive text on th
 | Keyword | Effect |
 |---------|--------|
 | **Stun** | Target cannot attack or use effects next turn (card turned face down) |
-| **Weakness** | Target's attack is reduced by half |
+| **Weakness** | Target's ATK is reduced by half |
+| **Sickness** | Target's DEF is reduced by half |
 
 ### Graveyard & Resource Keywords
 
@@ -187,18 +188,18 @@ Keywords are used to give cards abilities without requiring extensive text on th
 | **Mill X** | Add X cards from the top of your deck to your graveyard face up |
 | **Send** | Add specific card/s to your graveyard based on the card's description |
 | **Bury** | Shields destroyed by this ability go to the bottom of their deck instead of Aether zone |
-| **Charge** | When sent from Card Zone to graveyard, place in AP Zone instead |
-| **Deconstruct/Void** | Flip the top card of your graveyard face down and move it to the Void Zone |
-| **Expel X** | Send X cards from your Aether zone to the graveyard to activate effects |
+| **Charge** | When sent from the Battlefield to the graveyard, place in AP Zone instead |
+| **Void X** | Flip the top card of your graveyard face down and move it to the Void Zone. X equals how many cards you flip |
+| **Expel X** | Send X cards from your AP zone to the graveyard to activate effects |
 
 ### Modifier Keywords
 
 | Keyword | Effect |
 |---------|--------|
-| **Breaker +/-X** | When destroying shields, increase or decrease the number destroyed by X |
-| **Aether Break** | When removed from damage zone, activate Breakthrough effect, then send to graveyard |
+| **Breaker +/-X** | When destroying HP, increase or decrease the number destroyed by X |
+| **Aether Break** | When this card is destroyed from your HP zone, you can activate this cards effect without paying its AP cost, then send to graveyard |
 | **Doublecast** | Activate the ability that ends with Doublecast twice (cannot be stacked) |
-| **Heal X** | Add X cards from the top of your deck to your shields face down on the left |
+| **Heal X** | Add X cards from the top of your deck to your HP Zone face down on the left most zone |
 | **Ignore (Keyword)** | Nullify the specified keyword (only when this ability activates) |
 | **Quick X** | This monster can be summoned during opponent's turn for X AP |
 | **Scry X** | Look at X cards from the top of your deck |
