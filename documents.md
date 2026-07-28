@@ -127,14 +127,12 @@ Cards have different Aether types that determine playstyle and deck-building res
 
 | Color | Aether | Theme | Playstyle |
 |-------|--------|-------|-----------|
-| Green | Nature (Green) | Resource ramp, Growing monsters, Scaling into powerful threats | Midrange |
-| Red | Fire (Red) | Breaks shields, Strong attackers, Effect damage | Aggro |
-| Blue | Water (Blue) | Strong protection spells, Hand discards, Hand advantage | Control |
-| Yellow | Lightning (Yellow) | Weak summons that return to hand, Single target removal, Items | Aggro |
+| Green | Nature (Green) | Resource ramp, Growing monsters from the Graveyard, Scaling into powerful threats, Keeping strong monsters alive | Midrange |
+| Red | Fire (Red) | Breaks shields, Strong attackers, Effect damage, Powerful destruction effects | Aggro |
+| Blue | Water (Blue) | Strong protection spells,Recovery, Hand discards, Hand advantage | Control |
+| Yellow | Lightning (Yellow) | Weak summons that return to hand,Milling cards, Single target removal, Items | Aggro |
 | Silver | Wind (Silver) | Hard to block, Board setup, Stacking cards away from field | Midrange |
-| Brown | Earth (Brown) | Life Gain & Resilience, Heal and protect your character while building strong defense | Control |
-| Black | Dark (Black) | Graveyard and Void effects, Milling cards, Powerful destruction effects | Aggro |
-| White | Holy (White) | Shield manipulation, Recovery, Keeping strong monsters alive | Control |
+| Brown | Earth (Brown) | Life Gain & Resilience,HP manipulation, Heal and protect your character while building strong defense | Control |
 
 ---
 
