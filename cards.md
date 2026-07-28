@@ -21,7 +21,6 @@ Here's the standard format for card designs:
 - **Stats**: 
   - Attack: [Number] (Monsters only)
   - Defence: [Number] (Monsters only)
-  - Health: [Number] (Character only)
 - **Description**: [Card effect text]
 - **Keywords**: [List any relevant keywords]
 
