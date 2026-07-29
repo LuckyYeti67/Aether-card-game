@@ -164,7 +164,7 @@ Keywords are used to give cards abilities without requiring extensive text on th
 
 | Keyword | Effect |
 |---------|--------|
-| **Discard** | Send a card from your hand to your graveyard |
+| **Discard X** | Send a card from your hand to your graveyard. X is the number of cards you discard |
 | **Bounce** | Return a specified card from the Battlefield to the owners hand |
 | **Conjure** | Summon a monster to your Battlefield without paying its AP cost |
 | **Salvage** | Add a specific card/s from your graveyard to your hand |
