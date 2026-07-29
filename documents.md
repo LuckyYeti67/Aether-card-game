@@ -148,6 +148,7 @@ Keywords are used to give cards abilities without requiring extensive text on th
 | **Charge X** | Add X cards from the top of your deck to your AP Zone |
 | **On Play** | When the card enters the Battlefield, activate the ability that follows |
 | **Continuous** | While the card is face up in a Card Zone, its ability is always active |
+| **Draw X** | Add the top card of your deck to your hand, X is how many cards you Draw |
 
 ### Attack & Defense Keywords
 
