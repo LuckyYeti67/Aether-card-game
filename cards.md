@@ -37,8 +37,8 @@ Here's the standard format for card designs:
   - Attack: 3000
   - Defence: 4000
 - **Description**: 
-  - **Effect 1**: On Attack: You can Discard one card from your hand, then Draw a card
-  - **Effect 2**: When you discard a card from your hand, Bounce a monster on the field with AP cost of 3 or less
+  - **Effect 1**: On Attack: Discard 1, Draw 1
+  - **Effect 2**: When you discard a card, Bounce a monster with AP cost of 3 or less
   - **Effect 3**: Spells cost 1 less AP to cast
 - **Visual**: Dark blue fish man holding a staff
 
