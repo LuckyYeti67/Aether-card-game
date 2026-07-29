@@ -127,12 +127,12 @@ Cards have different Aether types that determine playstyle and deck-building res
 
 | Color | Aether | Theme | Playstyle |
 |-------|--------|-------|-----------|
-| Green | Nature (Green) | Resource ramp, Growing monsters from the Graveyard, Scaling into powerful threats, Keeping strong monsters alive | Midrange |
-| Red | Fire (Red) | Breaks shields, Strong attackers, Effect damage, Powerful destruction effects | Aggro |
-| Blue | Water (Blue) | Strong protection spells,Recovery, Hand discards, Hand advantage | Control |
-| Yellow | Lightning (Yellow) | Weak summons that return to hand,Milling cards, Single target removal, Items | Aggro |
-| Silver | Wind (Silver) | Hard to block, Board setup, Stacking cards away from field | Midrange |
-| Brown | Earth (Brown) | Life Gain & Resilience,HP manipulation, Heal and protect your character while building strong defense | Control |
+| Yellow | Light (Yellow) | Heal abilities, strong blockers, Scaling into powerful threats, Keeping monsters alive | Control |
+| Red | Fire (Red) | Extreme HP damage, Strong attackers, Effect damage, multi attack. | Aggro |
+| Blue | Water (Blue) | Strong protection spells,return and stacking effects, Hand discards, Hand advantage | Control |
+| Purple| Dark (Purple) | Conjure from graveyard,Milling cards,Effects trigger when destroyed Single target removal, | Midrange |
+| Green | Wind (Silver) | Hard to block, summon many small creatures, setup, Buffing effects | Aggro |
+| Brown | Earth (Brown) | Ramping AP, Summon powerful monsters, dealing HP damage while destroying monsters | Midrange |
 
 ---
 
@@ -144,7 +144,7 @@ Keywords are used to give cards abilities without requiring extensive text on th
 
 | Keyword | Effect |
 |---------|--------|
-| **HP X** | 
+| **HP X** | Your HP must be at X or lower to activate this effect.
 | **AP X** | Use X amount of AP to activate the effect that follows |
 | **Charge X** | Add X cards from the top of your deck to your AP Zone |
 | **On Play** | When the card enters the Battlefield, activate the ability that follows |
@@ -157,6 +157,7 @@ Keywords are used to give cards abilities without requiring extensive text on th
 |---------|--------|
 | **Piercing** | When attacking and destroying an opponent's card, destroy 1 HP |
 | **Defender** | Your opponent must attack Defender monsters and cannot attack anything else |
+| **Double Strike** | Select 2 monsters to attack at the same time.
 | **Evasion** | This monster cannot be blocked |
 | **Cover** | Cannot be targeted for attack unless all other monsters without Cover are gone |
 | **Repel** | Cannot be targeted by spells |
