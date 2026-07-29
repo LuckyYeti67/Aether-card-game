@@ -21,6 +21,7 @@ Here's the standard format for card designs:
 - **Stats**: 
   - Attack: [Number] (Monsters only)
   - Defence: [Number] (Monsters only)
+  - Health: [Number] (Character only)
 - **Description**: [Card effect text]
 - **Keywords**: [List any relevant keywords]
 
@@ -28,7 +29,19 @@ Here's the standard format for card designs:
 
 ## Monster Cards
 
-*Monster card designs go here*
+### Master of Magics
+- **Card Type**: Monster
+- **Aether**: Water (Blue)
+- **AP Cost**: 6
+- **Stats**:
+  - Attack: 3000
+  - Defence: 4000
+- **Description**: 
+  - **Effect 1**: On Attack: You can Discard one card from your hand, then Draw a card
+  - **Effect 2**: When you discard a card from your hand, Bounce a monster on the field with AP cost of 3 or less
+  - **Effect 3**: Spells cost 1 less AP to cast
+- **Keywords**: Discard, Draw, Bounce
+- **Visual**: Dark blue fish man holding a staff
 
 ---
 
@@ -56,5 +69,5 @@ Here's the standard format for card designs:
 
 ---
 
-**Last Updated**: July 27, 2026
+**Last Updated**: July 28, 2026
 **Game Version**: Aether Card Game
