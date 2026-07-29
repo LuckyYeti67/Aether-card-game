@@ -144,6 +144,7 @@ Keywords are used to give cards abilities without requiring extensive text on th
 
 | Keyword | Effect |
 |---------|--------|
+| **HP X** | 
 | **AP X** | Use X amount of AP to activate the effect that follows |
 | **Charge X** | Add X cards from the top of your deck to your AP Zone |
 | **On Play** | When the card enters the Battlefield, activate the ability that follows |
