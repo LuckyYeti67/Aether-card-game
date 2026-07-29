@@ -40,7 +40,6 @@ Here's the standard format for card designs:
   - **Effect 1**: On Attack: You can Discard one card from your hand, then Draw a card
   - **Effect 2**: When you discard a card from your hand, Bounce a monster on the field with AP cost of 3 or less
   - **Effect 3**: Spells cost 1 less AP to cast
-- **Keywords**: Discard, Draw, Bounce
 - **Visual**: Dark blue fish man holding a staff
 
 ---
