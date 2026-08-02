@@ -93,7 +93,7 @@ There are **5 main types of cards**:
 - One of the 2 most common card types
 - Used to attack opponent's monsters and the opponent directly
 - **Can attack the turn they are summoned**
-- You declare attacks by **Resting** the card (turning it sideways)
+- You declare attacks by **Tapping** the card (turning it sideways)
 - Cost is displayed in the upper left corner
 
 ### 2. Spells
