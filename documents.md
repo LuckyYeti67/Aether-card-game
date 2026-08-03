@@ -148,6 +148,7 @@ Keywords are used to give cards abilities without requiring extensive text on th
 | **AP X** | Use X amount of AP to activate the effect that follows |
 | **Charge X** | Add X cards from the top of your deck to your AP Zone |
 | **On Play** | When the card enters the Battlefield, activate the ability that follows |
+| **Pay X HP** | You send X amount of HP to the graveyard |
 | **Continuous** | While the card is face up in a Card Zone, its ability is always active |
 | **Draw X** | Add the top card of your deck to your hand, X is how many cards you Draw |
 
@@ -181,8 +182,8 @@ Keywords are used to give cards abilities without requiring extensive text on th
 | Keyword | Effect |
 |---------|--------|
 | **Stun** | Target cannot attack or use effects next turn (card turned face down) |
-| **Weakness** | Target's ATK is reduced by half |
-| **Sickness** | Target's DEF is reduced by half |
+| **+/- X Atk** | This cards Atk is increased or decreased by X |
+| **+/- X Def** | This cards Def is increased or decreased by X |
 
 ### Graveyard & Resource Keywords
 
