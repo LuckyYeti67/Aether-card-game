@@ -202,7 +202,6 @@ Keywords are used to give cards abilities without requiring extensive text on th
 
 | Keyword | Effect |
 |---------|--------|
-| **Breaker +/-X** | When destroying HP, increase or decrease the number destroyed by X |
 | **Aether Break** | When this card is destroyed from your HP zone, you can activate this cards effect without paying its AP cost, then send to graveyard |
 | **Doublecast** | Activate the ability that ends with Doublecast twice (cannot be stacked) |
 | **Heal X** | Add X cards from the top of your deck to your HP Zone face down on the left most zone |
