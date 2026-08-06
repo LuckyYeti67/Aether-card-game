@@ -93,6 +93,7 @@ There are **5 main types of cards**:
 - One of the 2 most common card types
 - Used to attack opponent's monsters and the opponent directly
 - **Can attack the turn they are summoned**
+- Monsters deal 1 point of **Damage** when they successfully land an attack.
 - You declare attacks by **Tapping** the card (turning it sideways)
 - Cost is displayed in the upper left corner
 
@@ -156,7 +157,8 @@ Keywords are used to give cards abilities without requiring extensive text on th
 
 | Keyword | Effect |
 |---------|--------|
-| **Piercing** | When attacking and destroying an opponent's card, destroy 1 HP |
+| **Piercing** | When attacking and destroying an opponent's card, your Monster still deals damage to the opponent.|
+| **+/-X Damage** | Increase or decrease the amount of **Damage** This card does.
 | **Defender** | Your opponent must attack Defender monsters and cannot attack anything else |
 | **Double Strike** | Select 2 monsters to attack at the same time.
 | **Evasion** | This monster cannot be blocked |
