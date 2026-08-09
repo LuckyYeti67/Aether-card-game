@@ -165,6 +165,7 @@ Keywords are used to give cards abilities without requiring extensive text on th
 | **Cover** | Cannot be targeted for attack unless all other monsters without Cover are gone |
 | **Repel** | Cannot be targeted by spells |
 | **Retaliate** | When battled, if your ATK ≥ opponent's monster DEF, destroy their monster after the battle ends |
+| **Drain** | When is creature deals **Damage**, **Heal 1** | 
 
 ### Card Movement Keywords
 
