@@ -81,7 +81,7 @@ Here's the standard format for card designs:
 - **Description**: 
   - **Ability 1**: 2 AP: Draw a card
   - **Ability 2**: 2 AP: Charge a card
-  - **Ability 3**: HP 4, Expel 2: All your Fire monsters gain +500 Attack till the end of your turn
+  - **Ability 3**: HP 4, Expel 2: 1 Fire Creature games **Damage +1** till the end of your turn
 - **Keywords**: Draw, Charge, Expel, +Attack
 
 ### God of Water
@@ -111,7 +111,7 @@ Here's the standard format for card designs:
 - **Description**: 
   - **Ability 1**: 2 AP: Draw a card
   - **Ability 2**: 2 AP: Charge a card
-  - **Ability 3**: HP 4, Expel 2: All your Wind monsters gain Evasion till the end of your turn
+  - **Ability 3**: HP 4, Expel 2: 1 Wind Creature gain **Evasion** till the end of your turn
 - **Keywords**: Draw, Charge, Expel, Evasion
 
 ### God of Earth
@@ -121,7 +121,7 @@ Here's the standard format for card designs:
 - **Description**: 
   - **Ability 1**: 2 AP: Draw a card
   - **Ability 2**: 2 AP: Charge a card
-  - **Ability 3**: HP 4, Expel 2: Target one of your monsters, it gains +1000 Attack and +500 Defence till the end of your turn
+  - **Ability 3**: HP 4, Expel 2: Target one of your monsters, it gains +2000 Attack and +2000 Defence till the end of your Opponent's turn
 - **Keywords**: Draw, Charge, Expel, +Attack, +Defence
 
 ---
