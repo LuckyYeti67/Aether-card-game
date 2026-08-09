@@ -64,9 +64,67 @@ Here's the standard format for card designs:
 
 ## Character Cards
 
-*Character card designs go here*
+### God of Light
+- **Card Type**: Character
+- **Aether**: Light (Yellow)
+- **Health**: 7
+- **Description**: 
+  - **Ability 1**: 2 AP: Draw a card
+  - **Ability 2**: 2 AP: Charge a card
+  - **Ability 3**: HP 4, Expel 2: 1 creature gains Defender till the end of the opponent's turn
+- **Keywords**: Draw, Charge, Expel, Defender
+
+### God of Fire
+- **Card Type**: Character
+- **Aether**: Fire (Red)
+- **Health**: 7
+- **Description**: 
+  - **Ability 1**: 2 AP: Draw a card
+  - **Ability 2**: 2 AP: Charge a card
+  - **Ability 3**: HP 4, Expel 2: All your Fire monsters gain +500 Attack till the end of your turn
+- **Keywords**: Draw, Charge, Expel, +Attack
+
+### God of Water
+- **Card Type**: Character
+- **Aether**: Water (Blue)
+- **Health**: 7
+- **Description**: 
+  - **Ability 1**: 2 AP: Draw a card
+  - **Ability 2**: 2 AP: Charge a card
+  - **Ability 3**: HP 4, Expel 2: During your opponent's turn, you may untap 3 AP
+- **Keywords**: Draw, Charge, Expel, Untap
+
+### God of Dark
+- **Card Type**: Character
+- **Aether**: Dark (Purple)
+- **Health**: 7
+- **Description**: 
+  - **Ability 1**: 2 AP: Draw a card
+  - **Ability 2**: 2 AP: Charge a card
+  - **Ability 3**: HP 4, Expel 2: Mill 3 cards from the top of your deck
+- **Keywords**: Draw, Charge, Expel, Mill
+
+### God of Wind
+- **Card Type**: Character
+- **Aether**: Wind (Green)
+- **Health**: 7
+- **Description**: 
+  - **Ability 1**: 2 AP: Draw a card
+  - **Ability 2**: 2 AP: Charge a card
+  - **Ability 3**: HP 4, Expel 2: All your Wind monsters gain Evasion till the end of your turn
+- **Keywords**: Draw, Charge, Expel, Evasion
+
+### God of Earth
+- **Card Type**: Character
+- **Aether**: Earth (Brown)
+- **Health**: 7
+- **Description**: 
+  - **Ability 1**: 2 AP: Draw a card
+  - **Ability 2**: 2 AP: Charge a card
+  - **Ability 3**: HP 4, Expel 2: Target one of your monsters, it gains +1000 Attack and +500 Defence till the end of your turn
+- **Keywords**: Draw, Charge, Expel, +Attack, +Defence
 
 ---
 
-**Last Updated**: July 28, 2026
+**Last Updated**: July 29, 2026
 **Game Version**: Aether Card Game
