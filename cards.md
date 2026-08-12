@@ -58,6 +58,7 @@ Here's the standard format for card designs:
  - **Stats**:
    - Attack: 3000
    - Defence: 1000
+   - **Effect**: HP 2, Damage +1
 
 ### Abyss Trident 
  - **Aether** Water (Blue)
