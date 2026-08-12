@@ -52,11 +52,47 @@ Here's the standard format for card designs:
 
 ## Item Cards
 
-### Great Burning Hammer
+### Great Burning Sword
  - **Aether** Fire (Red)
- - **AP Cost** 3
+ - **AP Cost** 4
  - **Stats**:
    - Attack: 3000
+   - Defence: 1000
+
+### Abyss Trident 
+ - **Aether** Water (Blue)
+ - **AP Cost** 3
+ - **Stats**:
+   - Attack: 2000
+   - Defence: 1000
+
+### Halo Rapier 
+ - **Aether** Light (Yellow)
+ - **AP Cost** 3
+ - **Stats**:
+   - Attack: 1500
+   - Defence: 1500
+
+###
+ - **Aether**
+ - **AP Cost**
+ - **Stats**:
+   - Attack:
+   - Defence:
+
+###
+ - **Aether**
+ - **AP Cost**
+ - **Stats**:
+   - Attack:
+   - Defence:
+
+###
+ - **Aether**
+ - **AP Cost**
+ - **Stats**:
+   - Attack:
+   - Defence:
 
 ---
 
