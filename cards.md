@@ -52,7 +52,11 @@ Here's the standard format for card designs:
 
 ## Item Cards
 
-*Item card designs go here*
+### Great Burning Hammer
+ - **Aether** Fire (Red)
+ - **AP Cost** 3
+ - **Stats**:
+   - Attack: 3000
 
 ---
 
