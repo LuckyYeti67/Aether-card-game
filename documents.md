@@ -184,7 +184,7 @@ Keywords are used to give cards abilities without requiring extensive text on th
 
 | Keyword | Effect |
 |---------|--------|
-| **Stun** | Target cannot attack or use effects next turn (card turned face down) |
+| **Stun** | Target cannot attack or use effects until the end of your next turn (card turned face down) |
 | **+/- X Atk** | This cards Atk is increased or decreased by X |
 | **+/- X Def** | This cards Def is increased or decreased by X |
 
@@ -194,8 +194,8 @@ Keywords are used to give cards abilities without requiring extensive text on th
 |---------|--------|
 | **Mill X** | Add X cards from the top of your deck to your graveyard face up |
 | **Send** | Add specific card/s to your graveyard based on the card's description |
-| **Bury** | Shields destroyed by this ability go to the bottom of their deck instead of Aether zone |
-| **Charge** | When sent from the Battlefield to the graveyard, place in AP Zone instead |
+| **Bury** | Shields destroyed by this ability go to the bottom of their deck instead of your hand |
+| **Charger** | When sent from the Battlefield to the graveyard, place in AP Zone instead |
 | **Void X** | Flip the top card of your graveyard face down and move it to the Void Zone. X equals how many cards you flip |
 | **Expel X** | Send X cards from your AP zone to the graveyard to activate effects |
 
@@ -206,8 +206,9 @@ Keywords are used to give cards abilities without requiring extensive text on th
 | **Aether Break** | When this card is destroyed from your HP zone, you can activate this cards effect without paying its AP cost, then send to graveyard |
 | **Doublecast** | Activate the ability that ends with Doublecast twice (cannot be stacked) |
 | **Heal X** | Add X cards from the top of your deck to your HP Zone face down on the left most zone |
+| **DNA Summon** | Instead of useing this cards AP cost, you can send monsters from your field to the graveyard that meet the requirements after this keyword to summon the monster instead.
 | **Ignore (Keyword)** | Nullify the specified keyword (only when this ability activates) |
-| **Quick X** | This monster can be summoned during opponent's turn for X AP |
+| **Quick Summon** | This monster can be summoned during opponent's turn |
 | **Scry X** | Look at X cards from the top of your deck |
 
 ---
