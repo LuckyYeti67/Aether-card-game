@@ -18,12 +18,12 @@
 - You must include exactly **1 Character card** in your deck
 
 ### Starting Hand
-- At the start of the game, each player draws and charges cards from the top of their deck based on their character card
-- You may choose to **Mulligan** (redraw your starting hand)
+- At the start of the game, each player draws 5 cards from the top of thier deck.
+- You may choose to **Mulligan** (place all cards in you hand on the bottom of your deck then draw the same number of cards.)
 - After keeping your hand, take the top **7 cards** from your deck and place them in your **HP Zone**
 
 ### First Player
-- The first player is determined randomly via dice roll or coin flip
+- The first player is determined randomly via dice roll or coin flip.
 
 ---
 
@@ -38,14 +38,14 @@
    - Draw 1 card from the top of your deck
 
 3. **Charge Phase**
-   - You may place a card from your hand into your AP Zone
+   - You may place a card from the top of your deck into your AP Zone
 
 4. **Main Phase**
    - You may do a couple things during this phase:
      - Use Character abilities,
      - Play cards from your hand
      - Activate card effects
-     - Attack with monsters
+     - Attack with monsters (both players cant attack on thier first turn)
 
 5. **End Phase**
    - Anything that resolves during the End Phase happens now
