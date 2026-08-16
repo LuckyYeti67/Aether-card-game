@@ -73,13 +73,14 @@ Here's the standard format for card designs:
  - **Stats**:
    - Attack: 1500
    - Defence: 1500
-
-###
- - **Aether**
- - **AP Cost**
+   - **Effect**: HP 1, Sacrifice, Heal 1
+### Wight Wand
+ - **Aether** Dark (Purple)
+ - **AP Cost** 3
  - **Stats**:
-   - Attack:
-   - Defence:
+   - Attack: 1000
+   - Defence: 1000
+   - **Effect**: Tap,AP 2, Conjure a 1 AP monters from. your graveyard.
 
 ###
  - **Aether**
