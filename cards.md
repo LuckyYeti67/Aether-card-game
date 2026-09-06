@@ -1,277 +1,71 @@
-### Water Monsters
+### Water Spells
 
-#### Water Sprite
-- **Card Type**: Monster
+#### Tidal Wave
+- **Card Type**: Spell
 - **Aether**: Water (Blue)
 - **AP Cost**: 1
-- **Stats**:
-  - Attack: 800
-  - Defence: 1000
-- **Description**: None
-- **Keywords**: None
+- **Description**: Return a monster with AP cost 1 or less to its owner's hand
+- **Keywords**: Bounce
 
-#### Tidal Guardian
-- **Card Type**: Monster
+#### Frost Bolt
+- **Card Type**: Spell
 - **Aether**: Water (Blue)
 - **AP Cost**: 2
-- **Stats**:
-  - Attack: 1000
-  - Defence: 1400
-- **Description**: Defender
-- **Keywords**: Defender
+- **Description**: Return a monster with AP cost 1 or less to its owner's hand
+- **Keywords**: Bounce
 
-#### Aqua Mage
-- **Card Type**: Monster
+#### Aqua Prison
+- **Card Type**: Spell
 - **Aether**: Water (Blue)
 - **AP Cost**: 2
-- **Stats**:
-  - Attack: 1100
-  - Defence: 1200
-- **Description**: On Play: Draw 1 card
-- **Keywords**: On Play, Draw
+- **Description**: Stun target monster
+- **Keywords**: Stun
 
-#### Oceanic Knight
-- **Card Type**: Monster
+#### Glacial Torrent
+- **Card Type**: Spell
 - **Aether**: Water (Blue)
 - **AP Cost**: 3
-- **Stats**:
-  - Attack: 1500
-  - Defence: 1600
-- **Description**: On Play: Bounce a monster with AP cost 2 or less
-- **Keywords**: On Play, Bounce
+- **Description**: Return a monster with AP cost 2 or less to its owner's hand
+- **Keywords**: Bounce
 
-#### Frost Elemental
-- **Card Type**: Monster
+#### Oceanic Recall
+- **Card Type**: Spell
 - **Aether**: Water (Blue)
 - **AP Cost**: 3
-- **Stats**:
-  - Attack: 1200
-  - Defence: 1800
-- **Description**: Continuous: Water monsters you control gain +300 Defence
-- **Keywords**: Continuous, +Defence
+- **Description**: Return a card from your graveyard to your hand
+- **Keywords**: Salvage
 
-#### Wave Dancer
-- **Card Type**: Monster
+#### Tidal Surge
+- **Card Type**: Spell
 - **Aether**: Water (Blue)
 - **AP Cost**: 4
-- **Stats**:
-  - Attack: 1600
-  - Defence: 1400
-- **Description**: Evasion
-- **Keywords**: Evasion
+- **Description**: Return a monster with AP cost 3 or less to its owner's hand
+- **Keywords**: Bounce
 
-#### Tide Keeper
-- **Card Type**: Monster
-- **Aether**: Water (Blue)
-- **AP Cost**: 4
-- **Stats**:
-  - Attack: 1400
-  - Defence: 2000
-- **Description**: On Play: Return a card from your graveyard to your hand
-- **Keywords**: On Play, Salvage
-
-#### Glacial Sentinel
-- **Card Type**: Monster
+#### Frozen Suspension
+- **Card Type**: Spell
 - **Aether**: Water (Blue)
 - **AP Cost**: 5
-- **Stats**:
-  - Attack: 2000
-  - Defence: 2200
-- **Description**: Repel
-- **Keywords**: Repel
+- **Description**: Return up to 2 monsters with AP cost 2 or less to their owners' hands
+- **Keywords**: Bounce
 
-#### Pearl Leviathan
-- **Card Type**: Monster
-- **Aether**: Water (Blue)
-- **AP Cost**: 5
-- **Stats**:
-  - Attack: 2100
-  - Defence: 1900
-- **Description**: On Play: Draw 2 cards, then discard 1
-- **Keywords**: On Play, Draw, Discard
-
-#### Abyssal Guardian
-- **Card Type**: Monster
+#### Maelstrom
+- **Card Type**: Spell
 - **Aether**: Water (Blue)
 - **AP Cost**: 6
-- **Stats**:
-  - Attack: 1800
-  - Defence: 2600
-- **Description**: Defender, Continuous: You may activate spells during opponent's turn
-- **Keywords**: Defender, Continuous
+- **Description**: Return a monster with AP cost 4 or less to its owner's hand. Draw 1 card
+- **Keywords**: Bounce, Draw
 
-#### Crystalline Drake
-- **Card Type**: Monster
-- **Aether**: Water (Blue)
-- **AP Cost**: 6
-- **Stats**:
-  - Attack: 2300
-  - Defence: 2000
-- **Description**: On Play: Bounce 1 Water monster to your hand
-- **Keywords**: On Play, Bounce
-
-#### Tidal Warden
-- **Card Type**: Monster
+#### Abyssal Summoning
+- **Card Type**: Spell
 - **Aether**: Water (Blue)
 - **AP Cost**: 7
-- **Stats**:
-  - Attack: 2500
-  - Defence: 2400
-- **Description**: Continuous: Water monsters gain +200 Attack and Defence
-- **Keywords**: Continuous, +Attack, +Defence
+- **Description**: Return 2 cards from your graveyard to your hand
+- **Keywords**: Salvage
 
-#### Frozen Colossus
-- **Card Type**: Monster
-- **Aether**: Water (Blue)
-- **AP Cost**: 7
-- **Stats**:
-  - Attack: 2200
-  - Defence: 2800
-- **Description**: Cover
-- **Keywords**: Cover
-
-#### Oceanic Phantom
-- **Card Type**: Monster
+#### Oceanic Ascension
+- **Card Type**: Spell
 - **Aether**: Water (Blue)
 - **AP Cost**: 8
-- **Stats**:
-  - Attack: 2600
-  - Defence: 2200
-- **Description**: Evasion, Return
-- **Keywords**: Evasion, Return
-
-#### Depth Keeper
-- **Card Type**: Monster
-- **Aether**: Water (Blue)
-- **AP Cost**: 8
-- **Stats**:
-  - Attack: 2400
-  - Defence: 2600
-- **Description**: On Play: Bounce 2 opponent monsters with AP cost 3 or less
-- **Keywords**: On Play, Bounce
-
-#### Tidal Sovereign
-- **Card Type**: Monster
-- **Aether**: Water (Blue)
-- **AP Cost**: 9
-- **Stats**:
-  - Attack: 3000
-  - Defence: 3000
-- **Description**: Continuous: All your Water monsters gain Repel
-- **Keywords**: Continuous, Repel
-
-#### Icy Behemoth
-- **Card Type**: Monster
-- **Aether**: Water (Blue)
-- **AP Cost**: 9
-- **Stats**:
-  - Attack: 2800
-  - Defence: 3200
-- **Description**: Defender, Retaliate
-- **Keywords**: Defender, Retaliate
-
-#### Abyssal Leviathan
-- **Card Type**: Monster
-- **Aether**: Water (Blue)
-- **AP Cost**: 10
-- **Stats**:
-  - Attack: 3800
-  - Defence: 3500
-- **Description**: On Play: Bounce all opponent monsters with AP cost 4 or less
-- **Keywords**: On Play, Bounce
-
-#### Maelstrom Titan
-- **Card Type**: Monster
-- **Aether**: Water (Blue)
-- **AP Cost**: 10
-- **Stats**:
-  - Attack: 3500
-  - Defence: 3800
-- **Description**: Cover, Repel, Continuous: You may activate spells during opponent's turn
-- **Keywords**: Cover, Repel, Continuous
-
-#### Oceanic Overlord
-- **Card Type**: Monster
-- **Aether**: Water (Blue)
-- **AP Cost**: 10
-- **Stats**:
-  - Attack: 3600
-  - Defence: 3600
-- **Description**: Continuous: All your Water monsters gain +400 Attack, Defence, Evasion, and Repel
-- **Keywords**: Continuous, +Attack, +Defence, Evasion, Repel
-
----
-
-## Spell Cards
-
-### Fire Spells
-
-#### Flame Strike
-- **Card Type**: Spell
-- **Aether**: Fire (Red)
-- **AP Cost**: 1
-- **Description**: Deal 1 damage to opponent's HP Zone
-- **Keywords**: +Damage
-
-#### Inferno Burst
-- **Card Type**: Spell
-- **Aether**: Fire (Red)
-- **AP Cost**: 2
-- **Description**: Deal 2 damage to opponent's HP Zone
-- **Keywords**: +Damage
-
-#### Scorching Flames
-- **Card Type**: Spell
-- **Aether**: Fire (Red)
-- **AP Cost**: 2
-- **Description**: Destroy a monster with AP cost 1 or less
-- **Keywords**: None
-
-#### Molten Wave
-- **Card Type**: Spell
-- **Aether**: Fire (Red)
-- **AP Cost**: 3
-- **Description**: Deal 3 damage to opponent's HP Zone
-- **Keywords**: +Damage
-
-#### Pyroclasm
-- **Card Type**: Spell
-- **Aether**: Fire (Red)
-- **AP Cost**: 4
-- **Description**: Destroy a monster with AP cost 2 or less
-- **Keywords**: None
-
-#### Infernal Blaze
-- **Card Type**: Spell
-- **Aether**: Fire (Red)
-- **AP Cost**: 4
-- **Description**: Deal 4 damage to opponent's HP Zone. If you have 4 or less HP, draw 1 card
-- **Keywords**: +Damage, Draw, HP
-
-#### Cataclysm
-- **Card Type**: Spell
-- **Aether**: Fire (Red)
-- **AP Cost**: 5
-- **Description**: Destroy a monster with AP cost 3 or less
-- **Keywords**: None
-
-#### Volcanic Eruption
-- **Card Type**: Spell
-- **Aether**: Fire (Red)
-- **AP Cost**: 6
-- **Description**: Destroy a monster with AP cost 4 or less. Deal 2 damage to opponent's HP Zone
-- **Keywords**: +Damage
-
-#### Inferno Reckoning
-- **Card Type**: Spell
-- **Aether**: Fire (Red)
-- **AP Cost**: 7
-- **Description**: Destroy a monster with AP cost 5 or less. All your Fire monsters gain +300 Attack till end of turn
-- **Keywords**: +Attack
-
-#### Apocalypse Flame
-- **Card Type**: Spell
-- **Aether**: Fire (Red)
-- **AP Cost**: 8
-- **Description**: Destroy target monster. Deal damage to opponent's HP Zone equal to that monster's AP cost
-- **Keywords**: +Damage
+- **Description**: Return up to 3 monsters with AP cost 3 or less to their owners' hands. All your Water monsters gain +200 Attack till end of turn
+- **Keywords**: Bounce, +Attack
