@@ -199,3 +199,79 @@
   - Defence: 3600
 - **Description**: Continuous: All your Water monsters gain +400 Attack, Defence, Evasion, and Repel
 - **Keywords**: Continuous, +Attack, +Defence, Evasion, Repel
+
+---
+
+## Spell Cards
+
+### Fire Spells
+
+#### Flame Strike
+- **Card Type**: Spell
+- **Aether**: Fire (Red)
+- **AP Cost**: 1
+- **Description**: Deal 1 damage to opponent's HP Zone
+- **Keywords**: +Damage
+
+#### Inferno Burst
+- **Card Type**: Spell
+- **Aether**: Fire (Red)
+- **AP Cost**: 2
+- **Description**: Deal 2 damage to opponent's HP Zone
+- **Keywords**: +Damage
+
+#### Scorching Flames
+- **Card Type**: Spell
+- **Aether**: Fire (Red)
+- **AP Cost**: 2
+- **Description**: Destroy a monster with AP cost 1 or less
+- **Keywords**: None
+
+#### Molten Wave
+- **Card Type**: Spell
+- **Aether**: Fire (Red)
+- **AP Cost**: 3
+- **Description**: Deal 3 damage to opponent's HP Zone
+- **Keywords**: +Damage
+
+#### Pyroclasm
+- **Card Type**: Spell
+- **Aether**: Fire (Red)
+- **AP Cost**: 4
+- **Description**: Destroy a monster with AP cost 2 or less
+- **Keywords**: None
+
+#### Infernal Blaze
+- **Card Type**: Spell
+- **Aether**: Fire (Red)
+- **AP Cost**: 4
+- **Description**: Deal 4 damage to opponent's HP Zone. If you have 4 or less HP, draw 1 card
+- **Keywords**: +Damage, Draw, HP
+
+#### Cataclysm
+- **Card Type**: Spell
+- **Aether**: Fire (Red)
+- **AP Cost**: 5
+- **Description**: Destroy a monster with AP cost 3 or less
+- **Keywords**: None
+
+#### Volcanic Eruption
+- **Card Type**: Spell
+- **Aether**: Fire (Red)
+- **AP Cost**: 6
+- **Description**: Destroy a monster with AP cost 4 or less. Deal 2 damage to opponent's HP Zone
+- **Keywords**: +Damage
+
+#### Inferno Reckoning
+- **Card Type**: Spell
+- **Aether**: Fire (Red)
+- **AP Cost**: 7
+- **Description**: Destroy a monster with AP cost 5 or less. All your Fire monsters gain +300 Attack till end of turn
+- **Keywords**: +Attack
+
+#### Apocalypse Flame
+- **Card Type**: Spell
+- **Aether**: Fire (Red)
+- **AP Cost**: 8
+- **Description**: Destroy target monster. Deal damage to opponent's HP Zone equal to that monster's AP cost
+- **Keywords**: +Damage
